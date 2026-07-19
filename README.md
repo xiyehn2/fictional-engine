@@ -5,7 +5,7 @@
 1. 노트북/PC에서 **Chrome** 브라우저를 사용합니다.
 2. **Tampermonkey** 확장 프로그램을 설치합니다.
 3. Tampermonkey 아이콘을 클릭한 뒤 **Enable Scripts**가 활성화되어 있는지 확인합니다.
-4. 아래 링크에 접속합니다.
+4. 다음 링크에 접속합니다.
 https://github.com/xiyehn2/fictional-engine/raw/refs/heads/main/kimstudy.user.js
 5. Tampermonkey 설치 화면으로 자동 이동되면 **Install** 버튼을 눌러 설치합니다.
 6. 설치가 완료되면 김과외 사이트에 접속합니다.
