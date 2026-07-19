@@ -7,8 +7,8 @@
 3. Tampermonkey 아이콘을 클릭한 뒤 **Enable Scripts**가 활성화되어 있는지 확인합니다.
 4. 아래 링크에 접속합니다.
 
-   https://github.com/leeeunhyeok1/potential-funicular/raw/refs/heads/main/kimstudy.user.js
-
+   [https://github.com/leeeunhyeok1/potential-funicular/raw/refs/heads/main/kimstudy.user.js
+](https://github.com/xiyehn2/fictional-engine/raw/refs/heads/main/kimstudy.user.js)
 5. Tampermonkey 설치 화면으로 자동 이동되면 **Install** 버튼을 눌러 설치합니다.
 6. 설치가 완료되면 김과외 사이트에 접속합니다.
 7. 제가 보내드린 **라이선스 키**를 입력하면 바로 사용하실 수 있습니다.
