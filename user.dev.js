@@ -1,6 +1,6 @@
 // ==UserScript==
-// @version      1.0.6
-// @name         Gimgwahoe Automation
+// @version      1.0.7
+// @name         Yeah
 // @namespace    http://tampermonkey.net/
 // @match        https://kimstudy.com/*
 // @grant        GM_xmlhttpRequest
