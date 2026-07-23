@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version      3
+// @version      1.0.1
 // @name         Gimgwahoe Automation
 // @namespace    http://tampermonkey.net/
 // @match        https://kimstudy.com/*
