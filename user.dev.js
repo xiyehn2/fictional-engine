@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version      1.0.7
+// @version      1.0.8
 // @name         Yeah
 // @namespace    http://tampermonkey.net/
 // @match        https://kimstudy.com/*
