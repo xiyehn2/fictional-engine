@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version      1.0.25
+// @version      1.0.26
 // @name         Slate
 // @namespace    http://tampermonkey.net/
 // @match        https://kimstudy.com/*
