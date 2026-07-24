@@ -3,7 +3,7 @@
 # 📥 설치 방법
 
 1. 노트북/PC에서 **Chrome** 브라우저를 사용합니다.
-2. **Tampermonkey** 확장 프로그램을 설치합니다.
+2. **Tampermonkey** 크롬 확장 프로그램을 설치합니다.
 3. Tampermonkey 아이콘을 클릭한 뒤 **Enable Scripts**가 활성화되어 있는지 확인합니다.
 4. 다음 링크에 접속합니다.
 https://github.com/xiyehn2/fictional-engine/raw/refs/heads/main/bootstrap.prod.user.js
